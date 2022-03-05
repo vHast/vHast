@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I'm currently working on EestiTalk, a platform to learn Estonian online, it will feature several study techniques and tools that will greatly improve the learning process to anyone interested in the Estonian language, lähme!
+
+🌱 I'm currently learning React and Node.js to get in touch with the back-end.
+
+🤔 Very interested in collaborating with any open-source project / free software (Free as in Freedom) and learning the Free Software ethics!
+
+📫 You may reach me via my personal website www.fedalvdev.com or email vhast@gmail.com
+
+Happy coding!
+
 <!--
 **vHast/vHast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
