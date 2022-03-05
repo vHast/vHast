@@ -4,7 +4,7 @@
 
 ⚡ My stack consists on HTML5/CSS , Javascript ES6, SASS, Bash and Bootstrap, I know how to handle them but still honing my skills with them everyday! 
 
-🌱 I'm currently learning React and Node.js to get in touch with the back-end.
+🌱 I'm currently learning React to complete my Frontend stack and Node.js to get in touch with the back-end.
 
 🤔 Very interested in collaborating with any open-source project / free software (Free as in Freedom) and learning the Free Software ethics!
 
