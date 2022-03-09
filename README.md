@@ -8,7 +8,7 @@
 
 🤔 Very interested in collaborating with any open-source project / free software (Free as in Freedom) and learning the Free Software ethics!
 
-📫 You may reach me via my personal website www.fedalvdev.com or email vhast@gmail.com
+📫 You may reach me via my personal website www.fedalvdev.com or email fedvhast@gmail.com
 
 Happy coding!
 
